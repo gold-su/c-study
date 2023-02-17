@@ -4,15 +4,12 @@
 
 int main(){
 	
-	std::cout << "hello, world" << std::endl;
-	
-	int x = 2;
-	x = 5;
-	int y = x + 3;
-	
-	std::cout << y << std::endl;
+	int x;
+	x = 123; //assignment 할당하다
 	
 	
+	std::cout << x << std::endl;
+	std::cout << &x << std::endl;
 	
 	return 0;
 }

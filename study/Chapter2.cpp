@@ -7,7 +7,7 @@
 
 int main(){
 	
-	int x;
+	int x = 123; //initialization 이니셜라이제이션 기계를 시동 가능한 상태로 만들기 위한 조작. 또는 데이터 매체를 사용하기 전이나 처리하기 전에 필요한 조작
 	x = 123; //assignment 할당하다
 	
 	

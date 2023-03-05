@@ -9,5 +9,14 @@ int main(){
 	
 	cout << "너가 입력한거 ㅋㅋ -> " << x << endl;  //저장할 변수가 int이기 때문에 정수만 저장이 가능하다
 	
+	int a = 5;
+	
+	cout << "Bfore your input. a was " << a << endl; //입력받기 전 a의 값은 5로 초기화 되어있었음. 
+	cout << "a를 바꿔봐" << endl;
+	
+	cin >> a;
+	cout << "after your a = " << a << endl;
+	cout << "입력한" << a <<" 로 바뀌었지?" << endl;
+	
 	return 0;
 }

@@ -43,6 +43,21 @@ int practice(int ar, int sr)
 }
 
 
+
+
+int spl(int s,int p)
+{
+	int spll = s / p ;
+
+	return spll;
+	
+}
+
+
+
+
+
+
 int main(){
 	
 	
@@ -62,6 +77,10 @@ int main(){
 	cout << sum << endl;
 
 	cout << practice(40,20) << endl;
+	
+	cout << spl(100,2) << endl;
+	
+	
 	
 	return 0;
 }

@@ -31,4 +31,18 @@ int main(){  //main은 시스템이 찾는 첫번째 함수이다.
 		};
 		
 	return 0;
+	
+	int total; //정석
+	int _orange; //상관없음 
+	int VALUE; //모두 대문자면 작업할때 시간이 많이 들기 때문에 안됨
+	int my variable name; //중간중간에 화이트스페이스가 들어가면 안됨
+	int TotalCustomers; //너무 길기도 하고 상관은 없음
+	int viod; //void는 int와 같은 코드에서 사용하는 단어기 때문에 안됨
+	int numFruit; //문제없지만 작업하는 사람과 맞춰서 할 필요성있음
+	int 2some; //숫자가 맨 앞에 있으면 안됨 
+	int meters_of_pipe; //중간중간 언더바로 인해 시간이 많이 듬
+	
+	
+	
+	
 }

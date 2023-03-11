@@ -22,7 +22,8 @@ int main(){
 	int p = ( y > 10) ? 1 : 2;
 	cout << y << endl; //부등호 식이 참이기때문에 1을 출력.//
 	cout << p << endl; //부등호 식이 거짓이기 떄문에 2를 출력
-	
 	/*조건 연산자(Conditional operator)는 C++언어의 유일한 삼항 연산자(Ternary operator)이다.*/
+	
+	
 	return 0;
 }

@@ -3,9 +3,14 @@
 using namespace std;
 
 
+int add(int x, int y) {
+	return x + y ;
+}
+
 int main(){
 	
-	
+	cout << "ddd" <<  
+		"ddddd" << endl; 
 	
 	
 	return 0;

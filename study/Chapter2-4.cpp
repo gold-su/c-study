@@ -2,19 +2,18 @@
 
 using namespace std;
 
-int Tham(int a, int b)
-{
-	int sum = a + b;
-	
-	return sum;
-	
-}
-
+int add(int a, int b); // forward declaration  전방 선언 
 
 int main(){
 	
 	
-	cout << Tham(1,2) << endl;
-	
 	return 0;
+}
+
+
+//definition 정의
+int add(int a, int b)
+{
+	
+	return a + b;
 }

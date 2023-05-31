@@ -1,11 +1,9 @@
 #include <iostream>
-#include "add.h"
+
+using namespace std;
 
 
-usging namespace std;
-
-
-
+int add(int a, int b);
 
 int mian(){
 	

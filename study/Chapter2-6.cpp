@@ -2,7 +2,7 @@
 #include "add.h"
 
 
-using namespace std;
+usging namespace std;
 
 
 
